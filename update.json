@@ -1,8 +1,8 @@
 {
-  "version": "1.6.1",
+  "version": "1.6.2",
   "channel": "stable",
-  "notes": "BoomBook v1.6.1 keeps the Calendar view and makes automatic updates silent: no visible PowerShell window, no success popup, and no updater-created duplicate browser tab.",
-  "source_url": "https://raw.githubusercontent.com/sukaphree7/The-BoomBook/main/BoomBook_v1.6.1_Update/turf_fertilizer_app.py",
-  "sha256": "ab0efd99efae492258632c67b3dbb3f1113f19b6f9683404a814cabc898c4112",
-  "download_url": "https://github.com/sukaphree7/The-BoomBook/tree/main/BoomBook_v1.6.1_Update"
+  "notes": "BoomBook v1.6.2 is a test release for the one-click automatic updater. No feature changes from v1.6.1.",
+  "source_url": "https://raw.githubusercontent.com/sukaphree7/The-BoomBook/main/BoomBook_v1.6.2_Update/turf_fertilizer_app.py",
+  "sha256": "da6aebbdb26fdd2f39af08946cebd217c6d8e24ea72dceb2faf75576ff5835b8",
+  "download_url": "https://github.com/sukaphree7/The-BoomBook/tree/main/BoomBook_v1.6.2_Update"
 }
