@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
+  "version": "1.6.0",
   "channel": "stable",
-  "notes": "BoomBook v1.5.1 connects the in-app Update Center to the permanent BoomBook update feed.",
-  "download_url": "https://github.com/sukaphree7/The-BoomBook/releases/latest",
-  "release_url": "https://github.com/sukaphree7/The-BoomBook/releases/latest"
+  "notes": "BoomBook v1.6.0 retains the Calendar view and upgrades the Update Center for verified one-click automatic updates.",
+  "download_url": "https://github.com/sukaphree7/The-BoomBook",
+  "release_url": "https://github.com/sukaphree7/The-BoomBook"
 }
