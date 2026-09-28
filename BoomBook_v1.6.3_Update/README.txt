@@ -1,0 +1,1 @@
+BoomBook v1.6.3\n\nUpdater handoff repair: hidden VBS launches PowerShell independently, BoomBook exits after handoff, database is backed up, source is replaced, and one BoomBook instance restarts.\n
