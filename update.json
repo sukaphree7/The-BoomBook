@@ -1,8 +1,8 @@
 {
-  "version": "1.6.4",
+  "version": "1.6.5",
   "channel": "stable",
-  "notes": "BoomBook v1.6.4 is a small updater test release. It makes no feature changes; it verifies the repaired v1.6.3 automatic update handoff.",
-  "source_url": "https://raw.githubusercontent.com/sukaphree7/The-BoomBook/main/BoomBook_v1.6.4_Update/turf_fertilizer_app.py",
-  "sha256": "1b62b77c5b6b7e9d757aabed00dee54e7c177f67262334d5fc7788d43063425e",
-  "download_url": "https://github.com/sukaphree7/The-BoomBook/tree/main/BoomBook_v1.6.4_Update"
+  "notes": "BoomBook v1.6.5 polishes the automatic update restart experience with a dedicated Updating BoomBook screen and automatic browser reload while preserving the proven v1.6.4 updater behavior.",
+  "source_url": "https://raw.githubusercontent.com/sukaphree7/The-BoomBook/main/BoomBook_v1.6.5_Update/turf_fertilizer_app.py",
+  "sha256": "05590e358d5417c0f41c019d90fd916b57eb5cef367fad377e8b08b0d67a8903",
+  "download_url": "https://github.com/sukaphree7/The-BoomBook/tree/main/BoomBook_v1.6.5_Update"
 }
