@@ -1,8 +1,8 @@
 {
-  "version": "1.7.1",
+  "version": "1.7.2",
   "channel": "stable",
-  "notes": "BoomBook v1.7.1 is the first automatic-update test for the rebuilt v1.7.0 launcher. No feature changes.",
-  "source_url": "https://raw.githubusercontent.com/sukaphree7/The-BoomBook/main/BoomBook_v1.7.1_Update/turf_fertilizer_app.py",
-  "sha256": "83708bfd3757092ac1b0de38dd70e9c14f46e491384a19632e914170a32f5a06",
-  "download_url": "https://github.com/sukaphree7/The-BoomBook/tree/main/BoomBook_v1.7.1_Update"
+  "notes": "BoomBook v1.7.2 adds Disease Library Phase 1 with Brown Ring Patch / Waitea Patch, adds Corteva Defendor Specialty Herbicide to the product database, and improves the in-app update transition screen.",
+  "source_url": "https://raw.githubusercontent.com/sukaphree7/The-BoomBook/main/BoomBook_v1.7.2_Update/turf_fertilizer_app.py",
+  "sha256": "c6da9c4227aa8ac200a6abc881558e2ea4c4afb90fa1832a8ae22d54c3ed1e03",
+  "download_url": "https://github.com/sukaphree7/The-BoomBook/tree/main/BoomBook_v1.7.2_Update"
 }
