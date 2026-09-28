@@ -1,8 +1,8 @@
 {
-  "version": "1.6.3",
+  "version": "1.6.4",
   "channel": "stable",
-  "notes": "BoomBook v1.6.3 repairs the automatic updater handoff. The update launches through a hidden VBS helper, exits the old BoomBook after handoff, backs up the database, installs the verified source, and restarts one BoomBook instance.",
-  "source_url": "https://raw.githubusercontent.com/sukaphree7/The-BoomBook/main/BoomBook_v1.6.3_Update/turf_fertilizer_app.py",
-  "sha256": "4267e346297aabe9b735ce52a11c03fc2ad6038f055be4747d8b45344f58a0e7",
-  "download_url": "https://github.com/sukaphree7/The-BoomBook/tree/main/BoomBook_v1.6.3_Update"
+  "notes": "BoomBook v1.6.4 is a small updater test release. It makes no feature changes; it verifies the repaired v1.6.3 automatic update handoff.",
+  "source_url": "https://raw.githubusercontent.com/sukaphree7/The-BoomBook/main/BoomBook_v1.6.4_Update/turf_fertilizer_app.py",
+  "sha256": "1b62b77c5b6b7e9d757aabed00dee54e7c177f67262334d5fc7788d43063425e",
+  "download_url": "https://github.com/sukaphree7/The-BoomBook/tree/main/BoomBook_v1.6.4_Update"
 }
