@@ -1,8 +1,8 @@
 {
-  "version": "1.6.7",
+  "version": "1.6.8",
   "channel": "stable",
-  "notes": "BoomBook v1.6.7 keeps the standalone update screen and suppresses Streamlit's automatic browser launch during updater-triggered restarts so the existing BoomBook window can be reused.",
-  "source_url": "https://raw.githubusercontent.com/sukaphree7/The-BoomBook/main/BoomBook_v1.6.7_Update/turf_fertilizer_app.py",
-  "sha256": "8d0fd5fededbe98291b9f3126c0aca47edc281fb80921b15ed2536388282d717",
-  "download_url": "https://github.com/sukaphree7/The-BoomBook/tree/main/BoomBook_v1.6.7_Update"
+  "notes": "BoomBook v1.6.8 is an updater reliability cleanup. It removes the browser override that caused the Streamlit connection warning, keeps the proven silent update and database backup process, and clearly tells you when the old update window can be closed.",
+  "source_url": "https://raw.githubusercontent.com/sukaphree7/The-BoomBook/main/BoomBook_v1.6.8_Update/turf_fertilizer_app.py",
+  "sha256": "41619dbbea4ff514bf15aec3855f4ea091b70d6dedff5f85016fa5c8b551bd54",
+  "download_url": "https://github.com/sukaphree7/The-BoomBook/tree/main/BoomBook_v1.6.8_Update"
 }
